@@ -14,23 +14,23 @@
     "repository": "https://github.com/Hansaka-Anuhas/AutoFilterBot",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "6149335594:AAGqThjXz9FXOL1QS18b1WJzpF5cBVMM18s",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "21814574": "Get this value from https://my.telegram.org",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "76950ccd860212311210cbcc2a4bbdd3": "Get this value from https://my.telegram.org",
             "required": true
         },
         "INDEX_CHANNELS": {
-            "description": "ID of index channels. Separate multiple IDs by space.",
+            "1001806459453": "ID of index channels. Separate multiple IDs by space.",
             "required": false
         },
         "ADMINS": {
-            "description": "ID of Admins. Separate multiple admins by space.",
+            "5936007998": "ID of Admins. Separate multiple admins by space.",
             "required": true
         },
         "STICKERS": {
@@ -42,11 +42,11 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs. Give a channel ID with -100xxxxxxx",
+            "1001881972759": "Bot Logs. Give a channel ID with -100xxxxxxx",
             "required": true
         },
         "AUTH_CHANNEL": {
-            "description": "ID of channel. Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
+            "1001504604701": "ID of channel. Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "required": false
         },
         "AUTH_USERS": {
@@ -54,7 +54,7 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "MongoDB URI. Get this value from https://www.mongodb.com",
+            "mongodb+srv://aryan123:aryan123@cluster0.pykcz1r.mongodb.net/?retryWrites=true&w=majority": "MongoDB URI. Get this value from https://www.mongodb.com",
             "required": true
         },
         "DATABASE_NAME": {
