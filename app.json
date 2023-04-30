@@ -14,7 +14,7 @@
     "repository": "https://github.com/Hansaka-Anuhas/AutoFilterBot",
     "env": {
         "BOT_TOKEN": {
-            "description": "6149335594:AAGqThjXz9FXOL1QS18b1WJzpF5cBVMM18s",
+            "6149335594:AAGqThjXz9FXOL1QS18b1WJzpF5cBVMM18s": "6149335594:AAGqThjXz9FXOL1QS18b1WJzpF5cBVMM18s",
             "required": true
         },
         "API_ID": {
